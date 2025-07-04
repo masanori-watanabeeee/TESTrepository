@@ -1,2 +1,4 @@
 # TESTrepository
-Bの入力です。
+watanabe3
+Aの入力です
+Bの入力です
