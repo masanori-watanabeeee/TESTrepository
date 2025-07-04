@@ -1,1 +1,2 @@
 # TESTrepository
+Bの入力
